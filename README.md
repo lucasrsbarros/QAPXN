@@ -18,5 +18,12 @@ No arquivo *Gemfile* encontrará detalhes das versões e maiores infomaçõessob
 
 Para execução dos testes com **relatório** execute o comando "cucumber --format html --out reports.html". Também é possível realizar os testes agrupados usando as tags @helloWorld ou @login.
 
+Projeto criado no Visual Studio Code
 
+---
 
+## 3- Automação do Back-end
+
+Para a automação do Backend foi utilizado **Rest-Assured** com **Junit**, cenários gherkin no **Cucumber**, validações no body com **Hamcrest**, **Json Schema Validator**.
+
+Projeto criado no InteliJ
